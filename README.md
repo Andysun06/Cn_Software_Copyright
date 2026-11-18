@@ -61,7 +61,7 @@ Cn_Software_Copyright/
 ## 快速安装
 
 ```bash
-git clone https://github.com/<your-name>/Cn_Software_Copyright.git
+git clone https://github.com/Andysun06/Cn_Software_Copyright.git
 cd Cn_Software_Copyright
 
 python -m venv .venv
